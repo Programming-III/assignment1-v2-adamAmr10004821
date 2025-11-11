@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-class Person{
+class person{
 private:
         string name;
         int id;
