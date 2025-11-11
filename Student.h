@@ -24,7 +24,7 @@ student(int yearLevel , string major);
 
 
 
-
+};
 
 
 
