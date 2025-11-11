@@ -8,8 +8,14 @@
 
 using namespace std;
 
-// ==================== Person Class Implementation =========================
-
+person::person(){
+this-> name = "Nan";
+this-> id = 0;
+}
+person::person(string name , int id){
+this->name = name;
+this-> id = id;
+   }
 
 
 
