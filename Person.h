@@ -11,10 +11,10 @@ private:
 
 
 public:
-Person();
+person();
 
-Person(string n , int i);
-
+person(string name , int id);
+~person();
 
 void display();
 
