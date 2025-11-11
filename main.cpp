@@ -67,6 +67,14 @@ person::display();
 cout<< "department" << this->department<<endl;
 cout<<" Experience Year" << this-> experienceYears<< endl;
 
+}
+
+course::course(){
+this-> courseCode = " NaN";
+this-> courseName = " Null";
+this->maxStudents = 0;
+this->currentStudents = 0;
+}
 
 
 
