@@ -17,7 +17,8 @@ public:
 
 void addStudent(const Student & s);
 void diplayCourseInfo();
-
+course();
+course(string courseCode, stirng courseNmae , int maxStudents, int currentStudents);
 
 
 
