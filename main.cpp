@@ -75,6 +75,10 @@ this-> courseName = " Null";
 this->maxStudents = 0;
 this->currentStudents = 0;
 }
+course::course(string courseCode, stirng courseNmae , int maxStudents, int currentStudents){
+this->courseCode = courseCode;
+this-> courseName = courseName 
+
 
 
 
